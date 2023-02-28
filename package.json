@@ -1,0 +1,25 @@
+{
+  "name": "node_api",
+  "version": "3.2.0",
+  "description": "Node API is production ready and open source project in Node, Express, MongoDB",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tyrone Moodley",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "4.0.1",
+    "body-parser": "1.19.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.3",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "5.9.11",
+    "nodemailer": "6.4.6",
+    "swagger-jsdoc": "^4.3.2",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "engines": {
+    "node": "14.1.0"
+  }
+}
